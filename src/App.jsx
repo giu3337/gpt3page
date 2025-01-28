@@ -20,6 +20,6 @@ const App = () => (
     <Blog />
     <Footer />
   </div>
-);
+)
 
 export default App;
