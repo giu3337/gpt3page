@@ -40,6 +40,7 @@ const Navbarone = () => {
             <p><a href="#features">Case Studies</a></p>
             <p><a href="#blog">Library</a></p>
           </div>
+          {/* Nav Buttons */}
           <div className="gpt3__navbar-menu_container-links-sign">
             <p>Sign in</p>
             <button type="button">Sign up</button>
